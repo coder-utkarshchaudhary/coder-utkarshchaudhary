@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chaudharyutkarshofficial@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xfg4dNLsWpga08JjoYcwSZVUAUWpYKULarxCq0yIgto/edit?usp=sharing](https://docs.google.com/document/d/1xfg4dNLsWpga08JjoYcwSZVUAUWpYKULarxCq0yIgto/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1xfg4dNLsWpga08JjoYcwSZVUAUWpYKULarxCq0yIgto/edit?usp=sharing)
 
 - ⚡ Fun fact **I binge watched reels for 18 hours once.**
 
