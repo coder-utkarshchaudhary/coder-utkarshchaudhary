@@ -14,7 +14,7 @@ Beyond code, I’m a huge fan of reading, imagining myself in cringy romantic sc
 
 This GitHub is where I document my technical journey — from hackathon-winning ideas to AI pipelines in production. I'm always open to collaboration, feedback, and fresh ideas. Let’s build something impactful together!
 
-P.S. If you got your mind blown with my projects and want to offer me a position at your company 😉, here's my <a href="https://docs.google.com/document/d/1xfg4dNLsWpga08JjoYcwSZVUAUWpYKULarxCq0yIgto/edit?usp=sharing">resume</a>.
+P.S. If you got your mind blown with my projects and want to offer me a position at your company 😉, here's my <a href="https://drive.google.com/file/d/1CniW6ohP07ZGkQNeeAXEik3os1OQ6SrU/view?usp=sharing">resume</a>.
 </p>
 
 <div align="center">
