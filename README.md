@@ -1,37 +1,21 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Chaudhary</h1>
-<h2 align="center">Chill AI Researcher and Developer from India!!</h2>
+<h2 align="center">Applied AI Engineer | Fullstack ML (CV, NLP, Agents, Scalable backend system)</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coder-utkarshchaudhary&label=Profile%20views&color=d40202&style=flat-square" alt="coder-utkarshchaudhary" /> </p>
 
 ### <strong>Hello hello. Welcome.</strong>
-<p>I’m a Computer Science undergraduate at Delhi Technological University (DTU), passionate about building intelligent systems that solve real-world problems. I’ve worked across domains like AI/ML, LLMs and RAG systems, 3D modeling with LiDAR, and computer vision for sports analytics, both in research and real-world projects. My academic ventures range from mineral cluster detection on lunar surfaces to anomaly detection in security systems for ITBP, and optimizing real-time bidding systems using reinforcement learning.
+<p>I’m a Computer Science undergraduate at Delhi Technological University (DTU), passionate about building AI-driven systems that scale beautifully and solve real problems. My work spans across AI/ML, multimodal LLM pipelines, backend infrastructure, and 3D computer vision, blending research with production-grade engineering. I’ve built real-time GPU pipelines for sports analytics, LiDAR-based 3D reconstruction systems for urban modeling, and retrieval-augmented generation (RAG) platforms powering live enterprise applications.
 
-I have also worked on building scalable, reliable and efficient backend systems with beautiful and easy to use frontends. My primary development arena is <strong>AI-first full stack applications</strong>
+From winning ISRO hackathons with LunarSpectra — a deep learning project that mapped lunar minerals with 98% accuracy — to designing reinforcement-learning-based anomaly detection systems for ITBP, and optimizing real-time bidding engines with dynamic programming, I’ve worked at the intersection of math, ML, and systems.
 
-I enjoy solving tough problems with a mix of structured logic and creative modeling — whether it’s reducing LLM hallucinations or designing scalable backend infrastructures.
+I love building AI-first full-stack applications — systems that are scalable, fast, and surprisingly human. Whether it’s shaving off milliseconds from backend latency, reducing LLM hallucinations, or orchestrating multi-service pipelines across GPUs and clouds, I enjoy turning technical complexity into elegant, reliable products.
 
-Beyond code, I’m a huge fan of reading, imagining myself in cringy romantic scenarios in my head, binge watching reels in unhealthy bursts (18 hours PR. 😭), and looping the same Bollywood songs until I hate them.
+Outside of code, I’m just as dramatic as my debug logs — reading late at night, imagining cinematic love stories in my head, binge-watching reels for “five minutes” that turn into 18 hours 😭, and looping the same Bollywood songs until I ruin them.
 
-This GitHub is where I document my technical journey — from hackathon-winning ideas to AI pipelines in production. I'm always open to collaboration, feedback, and fresh ideas. Let’s build something impactful together!
+This GitHub is my digital lab — a record of experiments, wins, crashes, and learnings from every build. Always open to collaborations, critiques, or crazy ideas.
 
-P.S. If you got your mind blown with my projects and want to offer me a position at your company 😉, here's my <a href="https://drive.google.com/file/d/1CniW6ohP07ZGkQNeeAXEik3os1OQ6SrU/view?usp=sharing">resume</a>.
+P.S. If my projects made you go “Wait, we could use this in production 👀,” here’s my <a href="https://bit.ly/utkarsh-chaudhary-sde-intern-resume">resume</a> — let’s make something real together.
 </p>
-
-<div align="center">
-<h2>Github Stats</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=coder-utkarshchaudhary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-utkarshchaudhary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="left" display="flex">
   <h2 align="left">Connect with me here:</h2>
