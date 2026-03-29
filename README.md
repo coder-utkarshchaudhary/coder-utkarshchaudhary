@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Chaudhary</h1>
-<h2 align="center">Applied AI Engineer | Fullstack ML (CV, NLP, Agents, Scalable backend system)</h2>
+<h2 align="center">Applied AI Engineer | Fullstack ML (CV, NLP, RAG, Agents and RL)</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coder-utkarshchaudhary&label=Profile%20views&color=d40202&style=flat-square" alt="coder-utkarshchaudhary" /> </p>
 
